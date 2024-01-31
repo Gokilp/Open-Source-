@@ -37,3 +37,8 @@ This repository contains a curated list of open source mentorship programs and i
 
 If you know of any additional mentorship programs or internships that should be included in this list, please feel free to submit a pull request or open an issue. Your contributions are highly appreciated!
 
+
+Learn a git  and github commands contribute to the open source projects 
+
+
+Happy coding !
